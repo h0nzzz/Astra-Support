@@ -1,7 +1,6 @@
 ---
 name: Question
-about: Make any inquiry related to the Adonis admin system, whether you're a game
-  developer or an in-game admin user.
+about: Make any inquiry related to the Astra admin system.
 title: Question
 labels: question
 assignees: ''
